@@ -1,1 +1,1 @@
-Este é um pequeno projeto, onde foi desenvolvido um relógio digital usando HTML, CSS e Javascript.
+Neste projeto foi desenvolvido um relógio digital usando HTML, CSS e Javascript.
